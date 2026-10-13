@@ -1,0 +1,9 @@
+title: Damir Nedžibović
+description: Notes on media servers, C++ and the bugs in between.
+url: "https://damirn.github.io"
+theme: minima
+markdown: kramdown
+permalink: /:year/:month/:title/
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/damirn" }
